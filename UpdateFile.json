@@ -1,3 +1,4 @@
+
 {
    "files": [
 
@@ -61,15 +62,87 @@
 {
          "name": "DTAC-NOPRO-TH.04",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-TH.04.ovpn"
+      } ,
+
+{
+         "name": "AIS-SG.01",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-SG.01.ovpn"
+
+      },
+
+{
+         "name": "AIS-SG.02",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-SG.02.ovpn"
+      },
+
+{
+         "name": "AIS-US.01",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-US.01.ovpn"
+      },
+
+
+
+{
+         "name": "AIS-US.02",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-US.01.ovpn"
+      },
+
+{
+         "name": "TRUE-NOPRO-SG.01",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-SG.01.ovpn"
+      },
+
+
+{
+         "name": "TRUE-NOPRO-SG.02",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-SG.02.ovpn"
+      },
+
+
+{
+         "name": "TRUE-NOPRO-US.01",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-US.01.ovpn"
+      },
+
+{
+         "name": "TRUE-NOPRO-US.02",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-US.02.ovpn"
+      },
+
+{
+         "name": "DTAC-NOPRO-SG.01",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-SG.01.ovpn"
+      },
+
+{
+         "name": "DTAC-NOPRO-SG.02",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-SG.02.ovpn"
+      },
+
+{
+         "name": "DTAC-NOPRO-US.01",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-US.01.ovpn"
+      }, 
+
+{
+         "name": "DTAC-NOPRO-US.02",
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-US.02.ovpn"
       }
 
 
    ],
-"message":"🚀လိုင္းေကာင္းတဲ့ဆာဗာအသစ္ရယူရန္
-   UPDATEနိပ့္ေပးပါဗ်
-   Good Speed VPN✔
-   Ais True Dtac FreeNet🙂
-   Config-Version-3👈",
+"message":"🚀လိုင္းေကာင္းတဲ့ဆာဗာအသစ္ရယူရန္UPDATE
+ႏိွပ့္ေပးပါဗ်
+
+⏰ 31/08/2023
+Update New Servers
+Server -🇮🇩Singapore
+Server -🇬🇧United States
+
+ Good Speed VPN👍
+ Ais True Dtac -FreeNet
+ Config-Version-4👈",
    "title":"Do you want to update?",
-   "version": 3
+   "version": 4
 }
+
