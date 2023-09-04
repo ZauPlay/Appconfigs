@@ -5,72 +5,86 @@
 {
          "name": "AIS-TH.01",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-TH.01.ovpn"
+
       },
 
 {
          "name": "AIS-TH.02",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-TH.02.ovpn"
+
       },
 
 {
          "name": "AIS-TH.03",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-TH.03.ovpn"
+
       },
 
 {
          "name": "AIS-TH.04",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-TH.04.ovpn"
+
       },
 
 {
          "name": "AIS-TH.05",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-TH.05.ovpn"
+
       },
 
 {
          "name": "TRUE-NOPRO-TH.01",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-TH.01.ovpn"
+
       },
 
 {
          "name": "TRUE-NOPRO-TH.02",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-TH.02.ovpn"
+
       },
 
 
 {
          "name": "TRUE-NOPRO-TH.03",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-TH.03.ovpn"
+
       },
 
 {
          "name": "TRUE-NOPRO-TH.04",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-TH.04.ovpn"
+
       },
 
 {
          "name": "TRUE-NOPRO-TH.05",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-TH.05.ovpn"
+
       },
 
 {
          "name": "DTAC-NOPRO-TH.01",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-TH.01.ovpn"
+
       },
 
 {
          "name": "DTAC-NOPRO-TH.02",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-TH.02.ovpn"
+
       },
 
 {
          "name": "DTAC-NOPRO-TH.03",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-TH.O3.ovpn"
+
       }, 
 
 {
          "name": "DTAC-NOPRO-TH.04",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-TH.04.ovpn"
+
       } ,
 
 {
@@ -88,11 +102,13 @@
 {
          "name": "AIS-SG.02",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-SG.02.ovpn"
+
       },
 
 {
          "name": "AIS-SG.03",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-SG.03.ovpn"
+
       },
 
 {
@@ -104,43 +120,50 @@
 {
          "name": "AIS-US.01",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-US.01.ovpn"
+
       },
 
 {
          "name": "AIS-US.02",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/AIS-US.02.ovpn"
+
       },
 
 {
          "name": "TRUE-NOPRO-SG.01",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-SG.01.ovpn"
+
       },
 
 
 {
          "name": "TRUE-NOPRO-SG.02",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-SG.02.ovpn"
+
       },
 
 {
          "name": "TRUE-NOPRO-SG.03",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-SG.03.ovpn"
+
       },
 
 {
          "name": "TRUE-NOPRO-SG.04",
-         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-SG.04.ovpn"
-      },
+         "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-SG.04..ovpn"
 
+      },
 
 {
          "name": "TRUE-NOPRO-US.01",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-US.01.ovpn"
+
       },
 
 {
          "name": "TRUE-NOPRO-US.02",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/TRUE-NOPRO-US.02.ovpn"
+
       },
 
 {
@@ -151,32 +174,36 @@
 {
          "name": "DTAC-NOPRO-SG.02",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-SG.02.ovpn"
+
       },
 
 {
          "name": "DTAC-NOPRO-SG.03",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-SG.03.ovpn"
+
       },
 
 {
          "name": "DTAC-NOPRO-SG.04",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-SG.04.ovpn"
+
       },
 
 {
          "name": "DTAC-NOPRO-US.01",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-US.01.ovpn"
+
       }, 
 
 {
          "name": "DTAC-NOPRO-US.02",
          "url": "https://raw.githubusercontent.com/ZauPlay/Appconfigs/main/DTAC-NOPRO-US.02.ovpn"
+
       }
 
-
    ],
-"message":"🚀လိုင္းေကာင္းတဲ့ဆာဗာမ်ားရယူ
-ရန္ UPDATE ႏိွပ့္ေပးပါဗ်
+"message":"🚀လိုင္းေကာင္းတဲ့ဆာဗာမ်ားရယူရန္
+UPDATE ႏိွပ့္ေပးပါဗ်
 
 ⏰ 04/09/2023
 Update New Servers
@@ -185,8 +212,9 @@ Servers -🇹🇭 Thailand
 Servers -🇺🇸United States
  Good Speed VPN👍
  Ais True Dtac -FreeNet
- Config-Version-6 👈",
+ Config-Version-7👈",
    "title":"Do you want to update?",
-   "version": 6
+   "version": 7
 }
+
 
